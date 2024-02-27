@@ -1,0 +1,26 @@
+{
+  "name": "My offline App!",
+  "short_name": "Offline App",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "saddlebrown",
+  "background_color": "saddlebrown",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "instagram-icon.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "192x192",
+      "src": "angular-icon.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "515x515",
+      "src": "angular-icon.png",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
